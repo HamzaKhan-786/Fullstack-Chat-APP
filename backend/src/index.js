@@ -19,7 +19,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://your-frontend.vercel.app"
+      "https://fullstack-chat-app.vercel.app"
     ],
     credentials: true,
   })
